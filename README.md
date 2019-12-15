@@ -5,7 +5,7 @@
 ## 安装
 
 ``` bash
-npm install --save @zonday/inquirer-timeout-confirm-prompt
+npm install --save @zonda/inquirer-timeout-confirm-prompt
 ```
 
 ## 使用
